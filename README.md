@@ -2,11 +2,11 @@
 ### Master of Information and Data Science Program (MIDS)
 ### w205 - Fundamentals of Data Engineering
 
-* Year:
-* Semester:
-* Section:
-* Instructor:
+* Year: 2023
+* Semester: Fall
+* Section: 99 (Vinh, Suhas), 98 (Olivia)
+* Instructor: Schioberg, Doris
 * Team Members:
-    * team member 1
-    * team member 2
-    * team member 3
+    * Vinh Bui
+    * Suhas Prasad
+    * Olivia McCauley
