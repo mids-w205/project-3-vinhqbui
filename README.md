@@ -8,5 +8,5 @@
 * Instructor: Schioberg, Doris
 * Team Members:
     * Vinh Bui
-    * Suhas Prasad
     * Olivia McCauley
+    * Suhas Prasad
